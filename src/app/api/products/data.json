@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "The Let Them Theory: A Life-Changing Tool That Millions of People Can't Stop Talking About",
+      "author": "Mel Robbins",
+      "slug": "the-let-them-theory",
+      "price": 14,
+      "image": "/the-let-them-theory.png",
+      "description": "If you've ever felt stuck, overwhelmed, or frustrated with where you are, the problem isn't you. The problem is the power you give to other people. Two simple words—Let Them—will set you free. Free from the opinions, drama, and judgments of others. Free from the exhausting cycle of trying to manage everything and everyone around you. The Let Them Theory puts the power to create a life you love back in your hands—and this book will show you exactly how to do it.",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "Sunrise on the Reaping (A Hunger Games Novel) (The Hunger Games)",
+      "author": "Suzanne Collins",
+      "slug": "sunrise-on-the-reaping",
+      "price": 20,
+      "image": "/sunrise-on-the-reaping.png",
+      "description": "As the day dawns on the fiftieth annual Hunger Games, fear grips the districts of Panem. This year, in honor of the Quarter Quell, twice as many tributes will be taken from their homes. Back in District 12, Haymitch Abernathy is trying not to think too hard about his chances. All he cares about is making it through the day and being with the girl he loves. When Haymitch’s name is called, he can feel all his dreams break. He’s torn from his family and his love, shuttled to the Capitol with the three other District 12 tributes: a young friend who’s nearly a sister to him, a compulsive oddsmaker, and the most stuck-up girl in town. As the Games begin, Haymitch understands he’s been set up to fail. But there’s something in him that wants to fight . . . and have that fight reverberate far beyond the deadly arena.",
+      "featured": true
+    },
+    {
+      "id": 3,
+      "title": "The New Menopause: Navigating Your Path Through Hormonal Change with Purpose, Power, and Facts",
+      "author": "Mary Claire Haver, MD",
+      "slug": "the-new-menopause",
+      "price": 18,
+      "image": "/the-new-menopause.jpg",
+      "description": "Menopause is inevitable, but suffering through it is not! This is the empowering approach to self-advocacy that pioneering women’s health advocate Dr. Mary Claire Haver takes for women in the midst of hormonal change in The New Menopause. A comprehensive, authoritative book of science-backed information and lived experience, it covers every woman's needs.",
+      "featured": true
+    },
+    {
+      "id": 4,
+      "title": "Forgotten Home Apothecary : 250 Powerful Remedies at Your Fingertips",
+      "author": "Dr. Nicole Apelian",
+      "slug": "forgotten-home-apothecary",
+      "price": 37,
+      "image": "/forgotten_home_apothecary.jpg",
+      "description": "This natural home remedies book gives you a 250-remedy Apothecary in your own home, ready to help you whenever you are in need. The book is written by Dr. Nicole Apelian, an expert herbalist with over 30 years of hands-on practice in healing with herbal remedies. The first thing you’ll see when you open this natural medicine book is your new Apothecary—250 remedies, organized on shelves for specific ailments.",
+      "featured": true
+    }
+  ]
+}
